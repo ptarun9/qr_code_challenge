@@ -27,7 +27,7 @@ body{
  }
  .qr-code h2{
      padding: 15px 19px;
-     font: normal normal bold 23px/1.2 'system-ui';
+     font: normal normal bold 23px/1.3 'system-ui';
      color: #101f44;
      text-align: center;
      opacity: 0.95;
