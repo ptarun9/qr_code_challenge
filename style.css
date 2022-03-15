@@ -1,0 +1,40 @@
+body{
+    background-color: #d5e1ef;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .qr-code{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 100vh;
+ }
+ .qr-code .box{
+     height: auto;
+     width: 355px;
+     border: 1px solid #d5e1ef;
+     background-color: #fff;
+     border-radius: 20px;
+     padding: 20px;
+ }
+ .qr-code img{
+     width: 100%;
+     object-fit: fill;
+     border-radius: 10px;
+ }
+ .qr-code h2{
+     padding: 10px 20px;
+     font: normal normal bold 24px/1.2 'system-ui';
+     color: #101f44;
+     text-align: center;
+     opacity: 0.95;
+ }
+ .qr-code p{
+     color: #c1c4c8;
+     font: normal normal 500 16px/normal 'system-ui';
+     padding: 0 20px 10px;
+     text-align: center;
+ }
