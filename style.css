@@ -26,8 +26,8 @@ body{
      border-radius: 10px;
  }
  .qr-code h2{
-     padding: 10px 20px;
-     font: normal normal bold 24px/1.2 'system-ui';
+     padding: 15px 19px;
+     font: normal normal bold 23px/1.2 'system-ui';
      color: #101f44;
      text-align: center;
      opacity: 0.95;
